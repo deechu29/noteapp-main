@@ -3,12 +3,12 @@ import 'package:noteapp/utils/color_constant.dart';
 
 class DummyDb {
   static const List<Color> noteColor = [
-    ColorConstant.grey,
-    ColorConstant.cardgrey,
-    ColorConstant.peach,
+    Colors.red,
+    Colors.yellow,
+    Colors.white,
     ColorConstant.peach2,
     ColorConstant.blue,
   ];
   //addnote empty list
-  static List<Map> addnNote = [];
+  //static List<Map> addnNote = [];
 }
